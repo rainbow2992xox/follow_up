@@ -15,7 +15,7 @@ exec (clean, function (err, stdout, stderr) {
     exec (cmdStr, function (err, stdout, stderr) {
         if (err) throw err;
 
-        console.log ("初始化成功...")
+        console.log ("初始化成功..")
 
 
     })
